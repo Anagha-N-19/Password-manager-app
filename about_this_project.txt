@@ -1,0 +1,3 @@
+In this Python password manager app, I intended to create a dynamically password generating app using tkinter. It adds the password to a text file and saves it for future uses.
+We can also generate passwords and have it copied to the clipboard. 
+It ensures using messageboxes that none of the inputs are empty and that we are satisfied with the inputs.
